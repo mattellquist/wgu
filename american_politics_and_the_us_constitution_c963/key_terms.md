@@ -1,0 +1,29 @@
+# Key Terms
+
+ - **natural rights**: The right to life, liberty, and property; believed to be given by God; no government may take away
+ - **state of nature**: A theory on how people might have lived before societies came into existence
+ - **due process**: The requirement that government, when dealing with people, have in place a fair procedure which it applies equally to all
+ - **social contract**: A powerful, foundational agreement between people and their government in which citizens consent to be governed so long as the government protects their natural rights.
+ - **direct democracy**: A form of democracy where people participate personally in making government decisions instead of choosing representatives to do this for them
+ - **state of nature**: A theory on how people might have lived before societies came into existence
+ - **Declaration of Independence**: The original document, authored principally by Thomas Jefferson, that "birthed" the United States and started the Revolutionary War. It lists important natural rights and grievances against the King of England, as well as declaring independence
+ - **Bill of Rights**: Collectively, the first ten amendments to the U.S. Constitution, ratified in 1791; they list citizens' civil liberties and civil rights
+ - **bicameral legislature**: A lawmaking body in the legislative branch that consists of two separate chambers or two separately elected groups of officials, such as Senators and Representatives, like the Virginia Plan. Bi, meaning "two," and camera, meaning "chamber," are from Latin.
+ - **political ideologies**: A coherent philosophy about the structure, power, and purpose of government. American political ideologies include progressive, liberal, moderate, independent, conservative, and libertarian.
+ - **articles of confederation**: The first attempt at organizing the government of the United States, consisting of a unicameral (one-chamber) Congress. Did not permit Congress to tax, regulate foreign or interstate commerce, or enforce its laws. The Articles of Confederation failed as it formed an alliance of sovereign state governments with too weak a national government.
+ - **popular vote**: The outcome of a democratic election in which all qualified voters are eligible to participate and the winner is the person who receives the largest number of individual votes.
+ - **Virginia Plan**: A plan proposed by the representatives of Virginia at the Constitutional Convention for a two-house (that is, bicameral) legislature, wherein the number of a state's representatives in each chamber would be based on the state's population.
+ -  **New Jersey Plan**: A plan proposed by the representatives of New Jersey at the Constitutional Convention that called for a one-house national legislature in which each state would have one vote.
+ - **three-fifths compromise**: During the creation of the U.S. Constitution, an agreement made between Northern and Southern states that called for counting of all a state's free population and 60 percent of its slave population for the twin purposes of federal taxation and representation in Congress.
+ - **veto**: The power of a president to reject a law passed by Congress. Veto is a Latin term meaning "I forbid."
+ - **checks and balances**: Extra constitutional powers that allow each branch of government to limit the exercise of power of the other two branches or approve their actions. This system requires different parts of government to work together and find agreement in order to accomplish new official actions.
+ - **separation of powers**: The division of a government's powers among three separate branches of government, managed by different groups of people. In the United States, the three branches of government are legislative, executive, and judicial.
+ - **federal system**: A form of government in which power is divided between state governments and a national government.
+ - **enumerated powers**: Powers given explicitly to the federal government by the Constitution in Article I, Section 8). The enumerated powers are: to regulate interstate and foreign commerce, raise and support armies, declare war, coin money, and conduct foreign affairs.
+ - **reserved powers**: Any powers not prohibited by the Constitution or delegated to the national government; powers reserved to the states and denied to the federal government as outlined in the Tenth Amendment.
+ - **political ideologies: A coherent philosophy about the structure, power, and purpose of government. American political ideologies include progressive, liberal, moderate, independent, conservative, and libertarian.
+ - **ratification**: The action of signing or otherwise officially approving a treaty, contract, or agreement, making it legally valid.
+ - **republic**: A system of government in which political power is held by the people through their ability to elect representatives who make laws on their behalf.
+ - **habeas corpus**: Meaning, in Latin, "show me the body," this is t right for a jailed citizen to appear before a judge to hear about a criminal charge. Habeus corpus prohibits imprisoning people without due process of law.
+ - **the federalist papers**: A series of 85 essays written and published by several of the Founding Fathers—Alexander Hamilton, James Madison, and John Jay—in 1887-88, in favor of ratifying the newly written Constitution.
+ - **faction**: Also called an interest group, this is a group of people who gather to petition government for their special concern.
