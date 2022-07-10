@@ -161,4 +161,86 @@ Seven Congressional Powers:
  - Impeach individuals
  - Oversee the powers of the judicial and executive branches
 
+## Section 2 - Lesson 2
+
+  -The legislative process is a lengthy and cumbersome one, and deliberately so.
+  -In an effort to maintain balance among the different branches of government, the Constitution placed checks on Congress’s ability to pass laws.
+  -In addition, Congress has added additional layers to the process through the use of the committee system. Recall that there are four types of committees that each serve various functions:
+    - Standing Committees are permanent committees that address timeless, recurring issues.
+    - Select Committees are temporary committees set up to address or investigate an issue not covered by one of the standing committees.
+    - Joint Committees have members from both houses of Congress serving on one committee together.
+    - Conference Committees have members from both houses of Congress and reconcile different versions of the same bill that has passed both houses to form a single unified bill that goes to the president.
+
+### The Process of Lawmaking
+In addition to the committee system, the process of lawmaking has several parts as well. Remember the process reviewed in the lesson:
+
+1. The bill is introduced and given to the appropriate standing committee.
+2. The bill is sent to the Rules Committee.
+3. The bill is debated in the House of Representatives and Senate with the possibility of a filibuster in the Senate.
+4. The bill is voted upon by the House of Representatives and the Senate.
+5. The bill is sent to the conference committee to form one unified bill.
+6. The unified bill is sent back to the House of Representatives and Senate to be voted upon.
+7. The bill goes to the president for signature or veto. If vetoed, Congress has the ability to override the veto.
+
+The Constitutional requirement that there be an actual enumeration of people every ten years has led to several political and constitutional problems, beginning at the Constitutional Convention itself and continuing to the present day. Since each state’s number of representatives depends on the census, and since redistricting can be—and has been—manipulated to secure politically unfavorable outcomes for political parties or ethnic and racial minorities, the processes of the census, reapportionment, and redistricting, can be potent political tools.
+
+Take a moment to consider the main points of this lesson:
+
+ - Every state must go through the process of reapportionment and redistricting every 10 years to accommodate for changes in their state’s population based on the last census.
+ - State legislatures are responsible for drawing electoral districts, which makes districts more susceptible to gerrymandering.
+ - Gerrymandering is the re-drawing of electoral districts to give an advantage or disadvantage to either a particular political party or group. In general, gerrymandering is not illegal but has been ruled unconstitutional by the Supreme Court when race is the basis for gerrymandering.
+ - While the courts have considered many cases concerning racial gerrymandering, they are just beginning to consider cases concerning partisan gerrymandering.
+
+ ## Section 2 - Lesson 4
+
+ - The delegates at the Constitutional Convention proposed creating the office of the president and debated many forms the role might take. The president is now elected for a maximum of two, four-year terms and can be impeached by Congress for wrongdoing and subsequently removed from office. The presidency and presidential power, especially war powers, have expanded greatly over the last two centuries, often with the willing assistance of the legislative branch.
+ - Executive privilege has been used by presidents to withhold information from Congress to both avoid the congressional usurping of presidential power and to protect individuals from embarrassing actions.
+ - Executive orders can be used to achieve presidential objectives.
+ - Presidents have become responsible for preparing the budget that is sent to Congress.
+ - Presidents have the power to veto legislation.
+ - Presidential activities are covered more intensively with the availability of modern media.
+ - The president is commander-in-chief of the armed forces.
+As the national government has become responsible for more activities, the president as head of the executive branch has become even more important.
+
+## Section 2 - Lesson 5
+
+ - The power of any president is limited by the system of checks and balances, but any president will have great power in a number of areas.
+ - The power of the pardon is virtually unchecked for federal crimes.
+ - The power of commander-in-chief provide him with great freedom of action and potential in the area of foreign policy.
+ - Presidents can issue executive orders in their capacity as head of the bureaucracy with limited oversight by Congress or the courts.
+ - Presidents can negotiate executive agreements with foreign leaders that do not require senatorial approval.
+ - Presidents have the opportunity to nominate individuals to cabinet-level positions, especially to the Supreme Court, and this can be extremely important.
+ - Presidents are in a unique position to attempt to persuade public opinion and Congress to support their policies. They are sometimes successful and sometimes not, but they have the opportunity to make the attempt.
+
+## Ssection 2 - Lesson 6
+
+ - New presidents face a number of important challenges. They have to make the transition from being a candidate to being an elected official in a democratic system. They have to learn the powers of the office and work in a complex government system. They need to recognize the limitations inherent in the system of checks and balances.
+ - New presidents need to be prepared for a smooth transition from their predecessor. They need to quickly nominate individuals for many government positions including the Cabinet and the ambassadors. They need to formulate and present a political agenda for the future. They will have to perform all the ongoing functions of the presidency.
+
+## Section 2 - Lesson 7
+
+ - The judicial branch was no doubt perceived to be the weakest branch of the new government. Over the course of time, however, the courts have become more involved in the process of governing the country. 
+ - Marbury v. Madison clearly set the pattern of judicial review. 
+ - The passage of the Fourteenth Amendment, extending the coverage of the Bills of Rights to the states with the accompanying limitations, resulted in additional cases for the courts. 
+ - Some changes have resulted from the demands of ongoing modernization that changes the nature of political activity. The world is changing in other ways that have brought up issues that end up in front of the courts because of their complexity and the need to adjust past laws, rules, and regulations to new situations. 
+ - Finally, there are more laws that have passed Congress, more actions from the president or the bureaucracy, and more actions by the states that can require decisions in the judicial system. Some of these decisions, even those that are made by judges or Justices adhering to a doctrine of judicial restraint, will inevitably involve some element of policy-making.
+
+## Section 2 - Lesson 8
+
+ - The founding fathers decided to create a complete system of courts for the new country. The federal judiciary consists of District Courts, Circuit Courts of Appeals, and the Supreme Court. District Courts deal with questions of guilt or innocence in criminal cases and who is responsible in civil cases. 
+ - Cases will work their way up the system to either a circuit court of appeals or, in a few cases, the Supreme Court. The Supreme Court remains the major decision-making body for interpretations of the Constitution and evaluations of the actions of the other branches of the government. 
+ - The system provides a means for interpretations of the Constitution to be determined. 
+ - The importance of cases that come before the circuit courts and the Supreme Court is evidenced by the fact that parties not directly affected by the case become involved. They submit written documents (amicus curiae briefs—"friend of the court" briefs) in support of one side or the other in hopes of getting a decision that is in keeping with preferences on the broader constitutional issues being considered.
+
+## Section 2 - Lesson 9
+
+The U.S. courts pride themselves on two achievements:
+ - As part of the framers’ system of checks and balances, they protect the sanctity of the U.S. Constitution from breaches by the other branches of government.
+ - They protect individual rights against societal and governmental oppression. 
+ - The Constitution remains the key document for the government, and it is the supreme law of the land. The federal courts have a key role in determining which actions of government at all levels are permissible and which ones are not permissible because they violate the Constitution or infringe upon the rights of U.S. citizens. The protection of these rights is an essential part of a democratic system.
+
+## Section 2 - Lesson 11
+
+ - These two important Supreme Court cases illustrated how the Supreme Court expanded the power of the national government through the Necessary and Proper Clause’s implication of expanded powers, the Supremacy Clause, and the expressed power of Congress to regulate commerce.
+ - Although language existed in the Constitution that increased the powers of the national government over the states, the Supreme Court found itself in the contentious debate between the national government and the states, ultimately using the Constitution to increase the powers of the national government.
 
