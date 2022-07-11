@@ -2,7 +2,9 @@
 
  - **McCulloch v. Maryland**: This case centered on Congress and the creation of the 2nd Bank of the United States. The Supreme Court confirmed that Congress had the authority to establish the Bank with a broad interpretation of Congressional power implied in the ‘necessary and proper clause’ as part of its enumerated power to tax and raise money (Constitution, Art.1, Sec. 8). In addition, the Court case reaffirmed the supremacy clause (Constitution, Art. 4) that places federal over state power and the idea that states cannot tax the federal government.
 
- - **Gibbons v. Ogden**: is a court case that clarified the power of the federal government over states with the Constitution’s commerce clause that gave Congress the power to regulate commerce that crosses state lines (that is, interstate economic activity)
+ - **Gibbons v. Ogden**: Commerce Clause
+
+  Is a court case that clarified the power of the federal government over states with the Constitution’s commerce clause that gave Congress the power to regulate commerce that crosses state lines (that is, interstate economic activity)
 
  - **Barron v. Baltimore**: This case involved a local business owner who sued the city government with the claim that city construction efforts had taken away land essential to his business without being compensated for his loss (a violation of the 5th amendment ‘eminent domain’ protections).
 
