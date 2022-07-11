@@ -1,6 +1,5 @@
-Credit: https://www.pbs.org/newshour/classroom/app/uploads/2013/11/summary-of-the-US-Constitution.pdf
-
 ## The Preamble 
+
 The Preamble lists the reasons that the 13 original colonies separated from their mother country, and became an independent nation. 
 
 We the People of the United States, 
@@ -32,30 +31,30 @@ the Constitution.
 
 ## The Twenty-seven Amendments to the US Constitution 
 
-- **1st** People have freedom of religion, freedom of speech, freedom of the press, freedom of assembly, and the right to petition the Government. 1791.
-- **2nd** People have the right to have a weapon to protect themselves. 1791.
-- **3rd** Soldiers cannot take or live in a person's house. 1791.
-- **4th** The government cannot arrest a person or search their property unless there is "probable cause." 1791.
-- **5th** The government must follow the law (due process) before punishing a person. 1791.
-- **6th** A person has the right to a fair and speedy trial by a jury. 1791.
-- **7th** A person has the right to a jury trial for civil cases. 1791.
-- **8th** The government cannot demand excessive bail or fines, or any cruel and unusual punishment. 1791.
-- **9th** The Constitution does not include all of the rights of the people and the states. 1791.
-- **10th** Any powers that the Constitution does not give to the federal government belong to the states. 1791.
-- **11th** Citizens cannot sue states in federal courts. (There are some exceptions). 1795.
-- **12th** The President and Vice President are elected on a party ticket. 1804.
-- **13th** Slavery is illegal in the United States. 1865.
-- **14th** Every person born in the USA is a citizen. An immigrant can become a naturalized citizen. 1868
-- **15th** All US male citizens have the right to vote. 1870.
-- **16th** Congress can tax income. 1913.
-- **17th** The people can elect US Senators. 1913.
-- **18th** Alcohol is illegal. (Prohibition). 1919.
-- **19th** All US female citizens have the right to vote. 1920.
-- **20th** The President is inaugurated in January. Congress begins to meet in January. 1933.
-- **21st** Alcohol is legal. Each state can make laws about making, selling, and drinking alcohol. 1933.
-- **22nd** The President cannot serve for more than two terms. 1951.
-- **23rd** The US Citizens in the District of Columbia have the right to vote for President. 1961.
-- **24th** It is illegal to make a citizen pay a voting fee or take a reading test to vote. 1964.
-- **25th** If the president dies or cannot serve, the vice-president becomes president. If both die, the Speaker of the House becomes president. 1967.
-- **26th** US citizens who are 18 years old or older have the right to vote. 1971.
+- **1st** People have freedom of religion, freedom of speech, freedom of the press, freedom of assembly, and the right to petition the Government.
+- **2nd** People have the right to have a weapon to protect themselves.
+- **3rd** Soldiers cannot take or live in a person's house.
+- **4th** Unreasonable searches and seizures.
+- **5th** Protects against self-incrimination.
+- **6th** Right to a speefy trial.
+- **7th** Right of of trial by jury.
+- **8th** No excessive bail, fines or cruel and unusual punishment.
+- **9th** Protects rights not specifically enumerated by the Constitution.
+- **10th** The powers not delegated to the US are reserved to the states.
+- **11th** You can't sue a state that's not your own.
+- **12th** Provides process on electing the President and Vice President.
+- **13th** Abolished salvery.
+- **14th** Provides equal protection and due process for all.
+- **15th** The right to vonte can't be denied basd on race or color.
+- **16th** Congress can tax income tax.
+- **17th** Establishes direct, popular voting to elect senators.
+- **18th** Alcohol is illegal.
+- **19th** Womens right to vote.
+- **20th** Establishes date term start for the President to January 20th (congress on Jan 3).
+- **21st** Alcohol is legal. Must be 21.
+- **22nd** Limits Presidents # of terms to 2.
+- **23rd** Grants D.C electors for Presidential election.
+- **24th** Right to vote will not be denied for failure to pay taxes.
+- **25th** Establishes the succession of the Presidency.
+- **26th** Allows citizens 18+ to vote.
 - **27th** Congress must limit when and how much its members are paid. 1992.
