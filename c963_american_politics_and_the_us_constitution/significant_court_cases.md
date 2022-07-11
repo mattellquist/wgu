@@ -36,7 +36,7 @@
 
  - **Tinker v. Des Moines Independent Community School District**: The Supreme Court ruled in this case the suspensions violated the 1st amendment freedom of speech liberties of the students and the symbolic form of political speech that this protest represented. While courts often defer to schools in free speech cases (recognizing the important social function of schools in providing public education), in this case the court determined that student speech is protected as long as the actions are not disrupting that fundamental educational function.
 
- - **Dred Scott v. Sandford**: The Dred Scott v. Sandford case arose due to the 1820 Missouri Compromise, a pre-Civil War pair of federal laws that admitted Missouri to the union as a slave state in exchange for a law that prohibited further creation of slave states north of the 36.5 N latitude line. The case stemmed from the question of freedom for Mr. Dred Scott.
+ - **Dred Scott v. Sandford**: Slaves are Property
 
  - **U.S. v. Miller**: During this period, the Supreme Court put significant emphasis on the “well-organized militia” language to uphold the 1934 National Firearms Act’s prohibition of sawed-off shotguns. The court unanimously upheld the constitutionality of that law with an argument that possession of such a modified shotgun was not related to the legitimate state interest in promoting a “well-regulated militia” for the defense of the state. Therefore, federal and state laws could regulate and prohibit weapons that did not serve that purpose.
 
@@ -76,10 +76,14 @@
 
  The Supreme Court ruled that Georgia’s congressional House districts DID violate the 14th amendment Equal Protection clause since the odd, non-compact district boundaries undermined the concept of “ONE PERSON, ONE VOTE” by giving some voters more influence than others in an intentional way. The court set a general standard that NON-COMPACTNESS is a clear sign of racial segregation built into a single district.
 
- - **Brown v. Board of Education of Topeka**: Challenged Separate but Equal (14th ammendment)
+ - **Brown v. Board of Education of Topeka**: Challenged Separate but Equal - Outlaws segregation (14th ammendment)
 
  The Brown v. Board of Education of Topeka case stemmed from K-12 public school students in Topeka, Kansas and several other districts who were denied admittance to certain public schools due exclusively to their race. The unanimous decision in this case determined that the existence of racially segregated public schools violated the equal protection clause of the Fourteenth Amendment. Supreme Court Chief Justice Earl Warren famously stated, “separate is inherently unequal.”
 
- - **Plessy v. Ferguson**: Separate but Equal
+ - **Plessy v. Ferguson**: Separate but Equal (14th Ammendment)
 
  The case centered on a man of mixed racial heritage who sat in a whites-only railroad car in an attempt to challenge a Louisiana law that required railroad cars be segregated. The man was arrested and convicted for violation of Louisiana’s racial segregation laws. The court refused his appeal that the law was in a violation of the 14th amendment’s Equal Protection clause. The court maintained that the requirement to have racially segregated train cars still provided a “separate but equal” opportunity to ride in a train car for both white and African American residents.
+ 
+ - **Schenk v. US**: Clear and Present Danger Rule
+ 
+ - **Engel vs Vitale**: Establishment clause. Can't pass laws that establish a religion (school sponsored prayer). (1st Ammendment)
