@@ -22,14 +22,13 @@ three main parts of government: the Executive Branch, the Legislative Branch, an
 The articles also talk about the separate powers of the Federal and State government, and how to change 
 the Constitution. 
 
-**Article 1**: Legislative Branch: the U.S. Congress makes the laws for the United States. Congress has 
-two parts, called "Houses," the House of Representatives and the Senate. 
-**Article 2**: Executive Branch: the President, Vice-President, Cabinet, and Departments under the Cabinet Secretaries carry out the laws made by Congress. 
-**Article 3**: Judicial Branch: the Supreme Court decides court cases according to US Constitution. The courts under the Supreme Court decide criminal and civil court cases according to the correct federal, state, and local laws. 
-**Article 4**: States' powers: States have the power to make and carry out their own laws. State laws that are related to the people and problems of their area. States respect other states laws and work together with other states to fix regional problems. 
-**Article 5**: Amendments: The Constitution can be changed. New amendments can be added to the US Constitution with the approval by a two-thirds vote in each house of Congress (67, 281) and three-fourth vote by the states (38). 
-**Article 6**: Federal powers: The Constitution and federal laws are higher than state and local laws. All laws must agree with the US Constitution. 
-**Article 7**: Ratification: The Constitution was presented to George Washington and the men at the Constitutional Convention on September 17, 1787, Representatives from twelve out of the thirteen original states signed the Constitution. From September 1787 to July 1788, the states meet, talked about, and finally voted to approve the Constitution. 
+- **Article 1**: Legislative Branch: the U.S. Congress makes the laws for the United States. Congress has - two parts, called "Houses," the House of Representatives and the Senate. 
+- **Article 2**: Executive Branch: the President, Vice-President, Cabinet, and Departments under the Cabinet Secretaries carry out the laws made by Congress. 
+- **Article 3**: Judicial Branch: the Supreme Court decides court cases according to US Constitution. The courts under the Supreme Court decide criminal and civil court cases according to the correct federal, state, and local laws. 
+- **Article 4**: States' powers: States have the power to make and carry out their own laws. State laws that are related to the people and problems of their area. States respect other states laws and work together with other states to fix regional problems. 
+- **Article 5**: Amendments: The Constitution can be changed. New amendments can be added to the US Constitution with the approval by a two-thirds vote in each house of Congress (67, 281) and three-fourth vote by the states (38). 
+- **Article 6**: Federal powers: The Constitution and federal laws are higher than state and local laws. All laws must agree with the US Constitution. 
+- **Article 7**: Ratification: The Constitution was presented to George Washington and the men at the Constitutional Convention on September 17, 1787, Representatives from twelve out of the thirteen original states signed the Constitution. From September 1787 to July 1788, the states meet, talked about, and finally voted to approve the Constitution. 
 
 ## The Twenty-seven Amendments to the US Constitution 
 
